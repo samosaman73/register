@@ -7,8 +7,8 @@
     },
 
     "record": {
-        "CNAME": "stepaut.github.io"
+        "CNAME": "utyupin-photo.web.app"
     },
 
-    "proxied": true
+    "proxied": false
 }
